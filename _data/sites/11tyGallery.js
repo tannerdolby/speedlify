@@ -1,5 +1,5 @@
 module.exports = {
-	name: "11ty Photo Gallery", // optional, falls back to object key
+	name: "Eleventy Photo Gallery Template", // optional, falls back to object key
 	description: "Eleventy Photo Gallery Starter",
 	options: {
 		frequency: 60 * 23, // (in minutes), 23 hours
